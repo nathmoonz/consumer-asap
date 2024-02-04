@@ -1,4 +1,4 @@
-# Projeto Grupo Gengar.
+# Projeto Grupo Gengar - Consumer.
 
 ## Projeto desenvolvido no Hackathon da Asapcard.
 
