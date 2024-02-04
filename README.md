@@ -12,6 +12,7 @@
 
 #### Objetivo do projeto: Entender o funcionamento do RabbitMQ e a importância de messaging em um banco de dados.
 
-#### Etapas do projeto:
+#### Etapas do projeto:![etapas do projeto](https://github.com/nathmoonz/consumer-asap/assets/110949239/b8460fbc-1f3c-4135-a774-e8f105328fd7)
 
-#### Estrutura do projeto final:
+#### Estrutura do projeto final:![estrutura do projeto final](https://github.com/nathmoonz/consumer-asap/assets/110949239/43088fa9-2c82-4aba-8948-b28bb394e15c)
+
